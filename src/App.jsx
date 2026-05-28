@@ -652,7 +652,7 @@ function generateFrames({ role, intervention, audience, resistances, hasData }) 
     tag: "values",
     tagLabel: "Values Lead",
     title: `Community & Capability Frame`,
-    message: `In our community, we believe every person — every child walking to school, every neighbor using a wheelchair, every parent running errands — deserves streets that keep them safe and give them real choices about how they get around. ${iv.label} ${iv.capabilities}. That's not a niche concern. That's the kind of community we want to be.`,
+    message: `Our streets should work for all of us — our children walking to school, our neighbors using wheelchairs, our parents running errands. When we right-size our roads, we create space for everyone to move safely, whether on foot, by bike, or by car. That's not a special interest. That's who we are.`,
     rationale: `<strong>Values–Solutions–Action Framework (Michael, Chirles, Frattaroli, LaJeunesse et al., 2023):</strong> Opens on shared community identity before introducing the intervention. Activates intrinsic pro-social values (community belonging, protection of family) rather than extrinsic frames (cost, rules, compliance). Uses collective pronouns throughout. Capabilities language follows Sen/Nussbaum: the intervention expands what's possible for real people, not just what's prohibited for drivers.`
   });
 
