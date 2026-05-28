@@ -4,7 +4,7 @@
 
 Generate evidence-based, values-aligned message frames for transportation safety policies and engineering interventions — tailored to your audience, your intervention type, and the specific resistance you expect to encounter.
 
-→ **[Live tool](https://YOUR-GITHUB-USERNAME.github.io/safe-streets-framing-tool/)** *(update after deployment)*
+→ **[Live tool](https://infra-discontents.github.io/safe-streets-framing-tool/)** *(update after deployment)*
 
 ---
 
